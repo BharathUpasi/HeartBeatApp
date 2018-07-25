@@ -14,3 +14,6 @@ Responsibilities
 3. Develope database design using the indutry best practices.
 4. Develop Visualization for the same using HIGHCHARTS.JS
 5. Maintain the application with high availibility from Jan-2018 to May-2018
+
+Development Languages:
+Node.js,Angular.js,express,highcharts
